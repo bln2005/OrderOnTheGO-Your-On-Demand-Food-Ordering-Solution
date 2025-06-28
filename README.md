@@ -73,15 +73,9 @@ Order Confirmation & History Pages
 
 User Flows: Tested end-to-end user journeys, including signup, login, logout, adding items to the cart, and completing a mock order. Verified that user data (profile, order history) persists correctly.
 
-👨‍💻 Team Members Team Leader: Dhannodi Hemanth Kumar
+👨‍💻 Team Leader: Avula Sree Sai Sudheshna
 
-Team member: Dandu Keerthi
-
-Team member: Shaik Topivali
-
-Team member: Yakasi Keerthi
-
-Team member: Leela Siddu
+Team member: Bhoomarapu Lakshmi Narasimha
 
 🎥 Demo The live, interactive application generated from the index.html file serves as the project's primary demo.
 
